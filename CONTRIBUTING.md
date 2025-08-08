@@ -8,3 +8,4 @@ Notes and usage details for adeu.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- clarify the setup steps
